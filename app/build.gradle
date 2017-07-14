@@ -36,7 +36,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
     compile 'com.android.support.constraint:constraint-layout:1.0.1'
     compile 'com.onradar:sdk:1.1.+'
-    compile 'com.xendit:xendit-android:1.0.1'
+    compile 'com.xendit:xendit-android:1.0.3'
 
     // App's dependencies, including test
     compile "com.android.support:appcompat-v7:$rootProject.ext.supportLibraryVersion"

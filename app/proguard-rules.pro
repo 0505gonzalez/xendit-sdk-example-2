@@ -24,6 +24,7 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
+# Hipcar
 -dontwarn com.google.**
 -keep class com.google.** {*;}
 -dontwarn com.google.errorprone.annotations.**
